@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rounterp.github.io/sitemap.html.gz
+Sitemap: https://rounterp.github.io/app/sitemap.html.gz
+Sitemap: https://rounterp.github.io/assets/sitemap.html.gz
+Sitemap: https://rounterp.github.io/css/sitemap.html.gz
+Sitemap: https://rounterp.github.io/includes/sitemap.html.gz
+Sitemap: https://rounterp.github.io/item/sitemap.html.gz
+Sitemap: https://rounterp.github.io/src/sitemap.html.gz
